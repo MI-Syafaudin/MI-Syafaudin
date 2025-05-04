@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![MI-Syafaudin](asset/banner_github.gif)
+
 <!--
 **MI-Syafaudin/MI-Syafaudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
