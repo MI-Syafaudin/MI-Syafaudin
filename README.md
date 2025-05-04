@@ -39,3 +39,21 @@
     <img src="https://skillicons.dev/icons?i=debian,kali" />
   </a>
 </p>
+
+<div align="center">
+  <h2>Programming/Scripting Language</h2> 
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js" />
+  </a>
+</p>
+
+<div align="center">
+  <h2>🐧Linux🐧</h2> 
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,debian,ubuntu,arch,bash" />
+  </a>
+</p>
