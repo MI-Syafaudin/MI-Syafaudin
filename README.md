@@ -1,6 +1,4 @@
-# Welcome to My Github Profil
-
-# Welcome to My Github Profile
+# ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=500&lines=Welcome+to+My+Github+Profile;Enjoy+with+My+Profil+Github)
 
 <div align="center">
   <img src="asset/banner_github.gif" width="100%" height="auto">
