@@ -1,7 +1,10 @@
-## Hi there 👋
+# Welcome to My Github Profil
 
-![MI-Syafaudin](asset/banner_github.gif)
+# Welcome to My Github Profile
 
+<div align="center">
+  <img src="asset/banner_github.gif" width="100%" height="auto">
+</div>
 <!--
 **MI-Syafaudin/MI-Syafaudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
