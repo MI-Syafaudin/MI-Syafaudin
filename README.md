@@ -57,3 +57,12 @@
     <img src="https://skillicons.dev/icons?i=kali,debian,ubuntu,arch,bash" />
   </a>
 </p>
+
+<div align="center">
+  <img src="asset/daily_drive&tools.gif">
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublim,git,github,stackoverflow" />
+  </a>
+</p>
