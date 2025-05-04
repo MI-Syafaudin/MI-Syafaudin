@@ -4,9 +4,15 @@
   <img src="asset/banner_github.gif" width="100%" height="auto">
 </div>
 
-<marquee width="80%" direction="right" scrollamount="5">
-  👩‍💻 Front End Web Programming | Back End Web Programming | Network Administrator | Programming Language | Linux 👩‍💻 
-</marquee>
+![Scrolling Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&color=00FF00&width=800&lines=++++++++++++++++👩💻+Front+End+Web+Programming+%7C+Back+End+Web+Programming+%7C+Network+Administrator+%7C+Programming+Language+%7C+Linux+👩💻++++++++++++++++)
+
+## Front end Web Programing
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+  </a>
+</p>
 
 <!--
 **MI-Syafaudin/MI-Syafaudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
