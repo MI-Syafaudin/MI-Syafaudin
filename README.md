@@ -63,6 +63,17 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublim,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow" />
   </a>
 </p>
+
+<div align="center">
+  <h2>( -_•)╦̵̵̿╤─ 👻</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/output/pacman-contribution-graph.svg">
+</picture>
+
+###
