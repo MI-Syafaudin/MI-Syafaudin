@@ -53,7 +53,7 @@
   <h2>🐧Linux🐧</h2> 
 </div>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=kali,debian,ubuntu,arch,bash" />
   </a>
 </p>
@@ -62,7 +62,7 @@
   <img src="asset/daily_drive&tools.gif">
 </div>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow" />
   </a>
 </p>
