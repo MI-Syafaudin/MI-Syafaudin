@@ -67,8 +67,7 @@
   </a>
 </p>
 
-<div align="center">
-  <h2>( -_•)╦̵̵̿╤─ 👻</h2>
+## ( -\_•)╦̵̵̿╤─ 👻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/output/pacman-contribution-graph-dark.svg">
