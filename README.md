@@ -70,14 +70,14 @@
 <!-- uji coba  -->
 
 <p align ="center">
-<table style="border:none;">
+<table border = "0">
 <tr>
 <td align="left">
-<img src="asset/gambar3d.png " width="50%" height="50%">
+<img src="asset/gambar3d.png " width="30%">
 </td>
 <td align="right">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perline=3" width="50%" height="50%">
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perline=3">
   </a>
 
 </tr>
