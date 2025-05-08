@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
   </a>
 </p>
@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=django,flask,mysql" />
   </a>
 </p>
@@ -44,7 +44,7 @@
   <h2>Programming/Scripting Language</h2> 
 </div>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=python,js" />
   </a>
 </p>
@@ -63,21 +63,24 @@
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perlane=3" />
   </a>
 </p>
 
 <!-- uji coba  -->
 
 <p align ="center">
-<table>
+<table border="0">
 <tr>
 <td align="left">
 <img src="asset/gambar3d.png">
 </td>
 <td align="right">
-<img src="asset/gambar3d.png">
-</td>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perlane=3" />
+  </a>
+</p>
 
 </tr>
 </table>
