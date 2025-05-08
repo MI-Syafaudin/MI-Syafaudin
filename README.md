@@ -75,7 +75,7 @@
 <td align="left">
 <img src="asset/gambar3d.png " width="30%">
 </td>
-<td align="right">
+<td style=width:50%>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perline=3">
   </a>
