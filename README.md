@@ -73,12 +73,12 @@
 <table border="0">
 <tr>
 <td align="left">
-<img src="asset/gambar3d.png">
+<img src="asset/gambar3d.png " width="50%" height="50%">
 </td>
 <td align="right">
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perlane=3" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perline=3" />
   </a>
 </p>
 
