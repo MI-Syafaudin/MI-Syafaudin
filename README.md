@@ -67,6 +67,24 @@
   </a>
 </p>
 
+<!-- uji coba  -->
+
+<p align ="center">
+<table>
+<tr>
+<td align="left">
+<img src="asset/gambar3d.png">
+</td>
+<td align="right">
+<img src="asset/gambar3d.png">
+</td>
+
+</tr>
+</table>
+</p>
+
+<!-- akhir uji coba -->
+
 ## ( -\_•)╦̵̵̿╤─ 👻
 
 <picture>
