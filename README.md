@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <a href="#">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
   </a>
 </p>
@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-  <a href="#">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,flask,mysql" />
   </a>
 </p>
@@ -44,7 +44,7 @@
   <h2>Programming/Scripting Language</h2> 
 </div>
 <p align="center">
-  <a href="#">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js" />
   </a>
 </p>
@@ -53,7 +53,7 @@
   <h2>🐧Linux🐧</h2> 
 </div>
 <p align="center">
-  <a href="#">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,debian,ubuntu,arch,bash" />
   </a>
 </p>
@@ -62,28 +62,10 @@
   <img src="asset/daily_drive&tools.gif">
 </div>
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perlane=3" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow" />
   </a>
 </p>
-
-<!-- uji coba  -->
-
-<p align ="center">
-<table border = "0">
-<tr>
-<td align="left">
-<img src="asset/gambar3d.png " width="30%">
-</td>
-<td style=width:50%>
-  
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perline=3">
-
-</tr>
-</table>
-</p>
-
-<!-- akhir uji coba -->
 
 ## ( -\_•)╦̵̵̿╤─ 👻
 
