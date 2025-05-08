@@ -70,17 +70,15 @@
 <!-- uji coba  -->
 
 <p align ="center">
-<table border="0">
+<table border="none">
 <tr>
 <td align="left">
 <img src="asset/gambar3d.png " width="50%" height="50%">
 </td>
 <td align="right">
-<p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perline=3" />
   </a>
-</p>
 
 </tr>
 </table>
