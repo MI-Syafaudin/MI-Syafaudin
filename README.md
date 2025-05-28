@@ -12,7 +12,7 @@
 
 <div>
 <h6>
-Nama Saya adalah Muhammad Ilham Syafaudin lahir di Bojonegoro dan tinggal di Gresik, lulusan dari SMK Sunan Drajat Lamongan Teknik Komputer & Jaringan sekaligus bermukim di Pesantren Sunan Drajat dengan pendidikan non-formal Madrasatul Qur'an, Madrasah Diniyah, Lembaga pengembangan Bahasa asing, & Pengajian Kitab Salaf.</h6></div>
+Nama Saya Muhammad Ilham Syafaudin lahir di Bojonegoro dan tinggal di Gresik, lulusan dari SMK Sunan Drajat Lamongan Teknik Komputer & Jaringan sekaligus bermukim di Pesantren Sunan Drajat dengan pendidikan non-formal Madrasatul Qur'an, Madrasah Diniyah, Lembaga pengembangan Bahasa asing, & Pengajian Kitab Salaf.</h6></div>
 
 <div>
 <h6>
