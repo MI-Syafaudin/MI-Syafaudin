@@ -16,7 +16,7 @@ Nama Saya adalah Muhammad Ilaham Syafaudin lahir di Bojonegoro dan tinggal di Gr
 
 <div>
 <h6>
-saya mulai tertarik dengan komputer sejak kelas 6 SD, dan mulai mempelajari dasar <img src="asset/a_HTML.gif" width="1%"> mulai saya di bangku SMK, di SMK saya mengikuti lomba Blog sekecamatan paciran, lomba kompetisi siswa SMK tingkat kabupaten Lamongan bidang IT</h6></div>
+saya mulai tertarik dengan komputer sejak kelas 6 SD, dan mulai mempelajari dasar <img src="asset/a_HTML.gif" width="3%"> mulai saya di bangku SMK, di SMK saya mengikuti lomba Blog sekecamatan paciran, lomba kompetisi siswa SMK tingkat kabupaten Lamongan bidang IT <img src="asset/wumpus_coding.gif" width="3%"></h6></div>
 
 <div align="center">
   <h2>Front End Web Programming </h2> 
