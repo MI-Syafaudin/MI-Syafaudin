@@ -10,12 +10,20 @@
   <img src="asset/text.gif">
 </div>
 
+<div>
+<h6>
+Nama Saya adalah Muhammad Ilaham Syafaudin lahir di Bojonegoro dan tinggal di Gresik, lulusan dari SMK Sunan Drajat Lamongan Teknik Komputer & Jaringan sekaligus bermukim di Pesantren Sunan Drajat dengan pendidikan non-formal Madrasatul Qur'an, Madrasah Diniyah, Lembaga pengembangan Bahasa asing, & Pengajian Kitab Salaf.</h6></div>
+
+<div>
+<h6>
+saya mulai tertarik dengan komputer sejak kelas 6 SD, dan mulai mempelajari dasar HTML mulai saya di bangku SMK <img src="asset/a_HTML.gif"></h6></div>
+
 <div align="center">
   <h2>Front End Web Programming </h2> 
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
   </a>
 </p>
@@ -25,7 +33,7 @@
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=django,flask,mysql" />
   </a>
 </p>
@@ -44,7 +52,7 @@
   <h2>Programming/Scripting Language</h2> 
 </div>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=python,js" />
   </a>
 </p>
@@ -53,7 +61,7 @@
   <h2>🐧Linux🐧</h2> 
 </div>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=kali,debian,ubuntu,arch,bash" />
   </a>
 </p>
@@ -62,8 +70,8 @@
   <img src="asset/daily_drive&tools.gif">
 </div>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,sublime,git,github,stackoverflow&perlane=3" />
   </a>
 </p>
 
