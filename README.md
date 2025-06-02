@@ -11,12 +11,12 @@
 </div>
 
 <div>
-<h6>
-Nama Saya Muhammad Ilham Syafaudin lahir di Bojonegoro dan tinggal di Gresik, lulusan dari SMK Sunan Drajat Lamongan Teknik Komputer & Jaringan sekaligus bermukim di Pesantren Sunan Drajat dengan pendidikan non-formal Madrasatul Qur'an, Madrasah Diniyah, Lembaga pengembangan Bahasa asing, & Pengajian Kitab Salaf.</h6></div>
+<h7>
+Nama Saya Muhammad Ilham Syafaudin lahir di Bojonegoro dan tinggal di Gresik, lulusan dari SMK Sunan Drajat Lamongan Teknik Komputer & Jaringan sekaligus bermukim di Pesantren Sunan Drajat dengan pendidikan non-formal Madrasatul Qur'an, Madrasah Diniyah, Lembaga pengembangan Bahasa asing, & Pengajian Kitab Salaf.</h7></div>
 
 <div>
-<h6>
-saya mulai tertarik dengan komputer sejak kelas 6 SD, dan mulai mempelajari dasar <img src="asset/a_HTML.gif" width="2%"> mulai saya di bangku SMK, di SMK saya mengikuti lomba Blog sekecamatan paciran, lomba kompetisi siswa SMK tingkat kabupaten Lamongan bidang IT <img src="asset/wumpus_coding.gif" width="2%">. saya mulai tertarik dengan bahasa permograman terutama <img src="asset/a_Python.gif" width="2%"> karena mudah di pahami dan mendekati bahasa manusia, untuk yang kemampuan yang telah saya pelajari bisa di cek dibawah  </h6></div>
+<h7>
+saya mulai tertarik dengan komputer sejak kelas 6 SD, dan mulai mempelajari dasar <img src="asset/a_HTML.gif" width="4%"> mulai saya di bangku SMK, di SMK saya mengikuti lomba Blog sekecamatan paciran, lomba kompetisi siswa SMK tingkat kabupaten Lamongan bidang IT <img src="asset/wumpus_coding.gif" width="2%">. saya mulai tertarik dengan bahasa permograman terutama <img src="asset/a_Python.gif" width="4%"> karena mudah di pahami dan mendekati bahasa manusia, untuk yang kemampuan yang telah saya pelajari bisa di cek dibawah  </h7></div>
 
 <div align="center">
   <h2>Front End Web Programming </h2> 
