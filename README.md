@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Asset -->
-  <img src="asset/banner_github.gif" alt="GitHub Banner" width="100%" height="70%" />
+  <img src="asset/banner_github.gif" alt="GitHub Banner" width="100%" height="50%" />
 
   
   <br /><br />
@@ -63,9 +63,9 @@
 <br>
 <br>
 <p align="center">
-  <img src="asset/frondend.gif" width="100%" />
-  <img src="asset/backend.gif" width="100%" />
-  <img src="asset/tool's.gif" width="100%" />
+  <img src="asset/frontend.gif" width="30%" />
+  <img src="asset/backend.gif" width="30%" />
+  <img src="asset/tool's.gif" width="30%" />
 </p>
 <br />
 
