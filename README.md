@@ -6,7 +6,7 @@
   <br /><br />
 
   <!-- Text GIF Asset -->
-  <img src="asset/text.gif" alt="Header Text" width="60%" />
+  <img src="asset/text.gif" alt="Header Text" width="150%" />
 
   <br /><br />
 
@@ -30,6 +30,7 @@
 <br />
 
 ---
+ <img src="asset/about_me.gif" alt="Header Text" width="100%" />
 
 ### 👤 About Me
 
@@ -63,7 +64,7 @@
 <br />
 
 ---
-
+ <img src="asset/my_journey.gif" alt="Header Text" width="100%" />
 ### 🗺️ My Journey
 
 > *"Setiap baris kode dan konfigurasi adalah langkah pembelajaran menuju penguasaan teknologi."*
