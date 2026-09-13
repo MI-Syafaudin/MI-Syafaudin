@@ -1,13 +1,9 @@
 <div align="center">
 
   <!-- Banner Asset -->
-  <img src="asset/banner_github.gif" alt="GitHub Banner" width="100%" />
+  <img src="asset/banner_github.gif" alt="GitHub Banner" width="100%" height="70%" />
 
-  <br /><br />
-
-  <!-- Text GIF Asset -->
-  <img src="asset/text.gif" alt="Header Text" width="150%" />
-
+  
   <br /><br />
 
   <!-- Typing Animation -->
@@ -30,9 +26,10 @@
 <br />
 
 ---
- <img src="asset/about_me.gif" alt="Header Text" width="100%" />
 
-### 👤 About Me
+ <img src="asset/about_me.gif" alt="About Me banner" width="100%" />
+
+
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -61,11 +58,19 @@
   </tr>
 </table>
 
+<br>
+ <img src="asset/myworkflow.gif" alt="My Workflow Banner" width="100%" />
+<br>
+<br>
+<p align="center">
+  <img src="asset/frondend.gif" width="100%" />
+  <img src="asset/backend.gif" width="100%" />
+  <img src="asset/tool's.gif" width="100%" />
+</p>
 <br />
 
----
- <img src="asset/my_journey.gif" alt="Header Text" width="100%" />
-### 🗺️ My Journey
+ <img src="asset/my_journey.gif" alt="My Journey Banner" width="100%" />
+
 
 > *"Setiap baris kode dan konfigurasi adalah langkah pembelajaran menuju penguasaan teknologi."*
 
@@ -82,3 +87,8 @@
 │
 └── 🚀 Fokus Saat Ini
     └── Memperdalam Python, Web Development (Frontend & Backend), Linux, & Networking.
+
+
+
+
+
