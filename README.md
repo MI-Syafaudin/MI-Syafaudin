@@ -57,7 +57,7 @@
     </td>
   </tr>
 </table>
----
+<hr border="solid">
 <br>
  <img src="asset/myworkflow.gif" alt="My Workflow Banner" width="100%" />
 <br>
@@ -68,7 +68,7 @@
   <img src="asset/tool's.gif" width="30%" />
 </p>
 <br />
----
+<hr border="solid">
 <br>
  <img src="asset/my_journey.gif" alt="My Journey Banner" width="100%" />
 
