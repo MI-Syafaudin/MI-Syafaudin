@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Asset -->
-  <img src="asset/banner_github.avif" alt="GitHub Banner" width="100%" height="50%" />
+  <img src="asset/banner_github.webp" alt="GitHub Banner" width="100%" height="50%" />
 
   
   <br /><br />
@@ -27,7 +27,7 @@
 
 ---
 
- <img src="asset/about_me.gif" alt="About Me banner" width="100%" />
+ <img src="asset/about_me.webp" alt="About Me banner" width="100%" />
 
 
 
@@ -53,24 +53,24 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="asset/wumpus_coding.gif" alt="Wumpus Coding" width="200" />
+      <img src="asset/wumpus_coding.webp" alt="Wumpus Coding" width="200" />
     </td>
   </tr>
 </table>
 <hr border="solid">
 <br>
- <img src="asset/myworkflow.gif" alt="My Workflow Banner" width="100%" />
+ <img src="asset/myworkflow.webp" alt="My Workflow Banner" width="100%" />
 <br>
 <br>
 <p align="center">
-  <img src="asset/frontend.gif" width="30%" />
-  <img src="asset/backend.gif" width="30%" />
-  <img src="asset/tool's.gif" width="30%" />
+  <img src="asset/frontend.webp" width="30%" />
+  <img src="asset/backend.webp" width="30%" />
+  <img src="asset/tool's.webp" width="30%" />
 </p>
 <br />
 <hr border="solid">
 <br>
- <img src="asset/my_journey.gif" alt="My Journey Banner" width="100%" />
+ <img src="asset/my_journey.webp" alt="My Journey Banner" width="100%" />
 
 
 > *"Setiap baris kode dan konfigurasi adalah langkah pembelajaran menuju penguasaan teknologi."*
