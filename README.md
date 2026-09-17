@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Asset -->
-  <img src="asset/banner_github.gif" alt="GitHub Banner" width="100%" height="50%" />
+  <img src="asset/banner_github.avif" alt="GitHub Banner" width="100%" height="50%" />
 
   
   <br /><br />
