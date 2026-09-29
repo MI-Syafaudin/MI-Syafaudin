@@ -1,8 +1,8 @@
-<<div data-importer="border">
-<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###div align="center">
+<div align="center">
 
   <!-- Banner Asset -->
   <img src="asset/banner_github.webp" alt="GitHub Banner" width="100%" height="50%" />
@@ -94,3 +94,9 @@
 
 
 ```
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
