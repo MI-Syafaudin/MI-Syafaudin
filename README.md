@@ -1,17 +1,20 @@
-<div align="center">
+<<div data-importer="border">
+<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###div align="center">
 
   <!-- Banner Asset -->
   <img src="asset/banner_github.webp" alt="GitHub Banner" width="100%" height="50%" />
 
-  
-  <br /><br />
+<br /><br />
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Muhammad+Ilham+Syafaudin;Python+%26+Web+Developer;Linux+%26+Network+Enthusiast;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
   </a>
 
-  <br /><br />
+<br /><br />
 
   <!-- Subtitle Badges -->
   <p align="center">
@@ -28,8 +31,6 @@
 ---
 
  <img src="asset/about_me.webp" alt="About Me banner" width="100%" />
-
-
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -72,8 +73,7 @@
 <br>
  <img src="asset/my_journey.webp" alt="My Journey Banner" width="100%" />
 
-
-> *"Setiap baris kode dan konfigurasi adalah langkah pembelajaran menuju penguasaan teknologi."*
+> _"Setiap baris kode dan konfigurasi adalah langkah pembelajaran menuju penguasaan teknologi."_
 
 ```text
 ┌── 🎒 Kelas 6 SD
@@ -93,3 +93,4 @@
 
 
 
+```
