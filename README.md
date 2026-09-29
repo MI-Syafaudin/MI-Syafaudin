@@ -1,7 +1,9 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
+<div data-importer="profile-views">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=MI-Syafaudin.MI-Syafaudin&"  />
+</div>
 <div align="center">
 
   <!-- Banner Asset -->
@@ -100,3 +102,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=54&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
