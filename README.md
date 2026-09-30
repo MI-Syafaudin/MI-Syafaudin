@@ -33,7 +33,9 @@
 ---
 
  <img src="asset/about_me.webp" alt="About Me banner" width="100%" />
+
 > _"Hanya seorang Manusia yang suka teknologi "_
+
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
@@ -62,8 +64,10 @@
 </table>
 <hr border="solid">
 <br>
+
 > _"Alat-alat Terhebat adalah yang bisa memenuhi kebutuhan."_
- <img src="asset/myworkflow.webp" alt="My Workflow Banner" width="100%" />
+
+<img src="asset/myworkflow.webp" alt="My Workflow Banner" width="100%" />
 <br>
 <br>
 <p align="center">
@@ -99,7 +103,9 @@
 ```
 
  <img src="asset/github.webp" alt="My Journey Banner" width="100%" />
+
 > _"Segala aktifitas ada makna yang terkandung."_
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/pacman-output/pacman-contribution-graph.svg?game=pacman">
