@@ -65,9 +65,10 @@
 <hr border="solid">
 <br>
 
+<img src="asset/myworkflow.webp" alt="My Workflow Banner" width="100%" />
+
 > _"Alat-alat Terhebat adalah yang bisa memenuhi kebutuhan."_
 
-<img src="asset/myworkflow.webp" alt="My Workflow Banner" width="100%" />
 <br>
 <br>
 <p align="center">
