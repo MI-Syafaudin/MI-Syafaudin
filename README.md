@@ -93,11 +93,12 @@
 
 
 
- <img src="asset/github.webp" alt="My Journey Banner" width="100%" />
 
 
 ```
 
+ <img src="asset/github.webp" alt="My Journey Banner" width="100%" />
+>_"Segala aktifitas ada makna yang terkandung."_
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MI-Syafaudin/MI-Syafaudin/pacman-output/pacman-contribution-graph.svg?game=pacman">
